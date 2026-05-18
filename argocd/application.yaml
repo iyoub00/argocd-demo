@@ -8,7 +8,7 @@ spec:
 
   source:
     # Replace <your-github-username> with your GitHub username
-    repoURL: https://github.com/<your-github-username>/argocd-demo
+    repoURL: https://github.com/iyoub00/argocd-demo
     targetRevision: HEAD
     path: k8s
 
