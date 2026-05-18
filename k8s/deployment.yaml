@@ -18,7 +18,7 @@ spec:
       containers:
         - name: demo-app
           # Replace <your-dockerhub-username> with your Docker Hub username
-          image: <your-dockerhub-username>/argocd-demo:1.0.0
+          image: iyoub00/argocd-demo:1.0.0
           ports:
             - containerPort: 8000
           readinessProbe:
